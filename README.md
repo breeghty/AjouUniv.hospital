@@ -59,13 +59,18 @@ Slick.js와 Scrolla.js 라이브러리를 사용했습니다.
 <br>
 <div>
   <div style='display:flex'>
-    <div>
-      <a href="./renewal_process/ui구현.pdf"><img align='top' src="./img/process_1.png" width="285" height="auto" alt="리뉴얼 기획 및 디자인 단계"></a>
-      리뉴얼 사이트 대상 선정 후 벤치마킹 사이트 분석, 아이디어 스케치, 콘셉트 기획, 스토리보드 작성 등의 기획 내용을 모두 담았습니다.
-    </div>
+    <a href="./renewal_process/ui구현.pdf"><img align='top' src="./img/process_1.png" width="285" height="auto" alt="리뉴얼 기획 및 디자인 단계"></a>
     <a href="./renewal_process/ui테스트.pdf"><img align='top' src="./img/process_2.png" width="285" height="auto" alt="리뉴얼 사용성 테스트"></a>
     <a href="./renewal_process/프로그래밍언어활용.pdf"><img align='top' src="./img/process_3.png" width="285" height="auto" alt="리뉴얼 인터랙티브 웹 구현"</a>
   </div>
+</div>
+<div align=center>
+    <h4> 💙 01. UI 구현 : 리뉴얼 기획 및 디자인 단계(NCS)</h4>
+    리뉴얼 사이트 대상 선정 후 벤치마킹 사이트 분석, 아이디어 스케치, 콘셉트 기획, 스토리보드 작성 등의 기획 내용을 모두 담았습니다.</p>
+    <h4> 💙 02. UI 테스트: 리뉴얼 사이트 사용성 테스트 (NCS)</h4>
+    <p>사용성 테스트를 실시하고 결과 분석 후 수정 방안과 계획을  작성했습니다.</p>
+    <h4> 💙 03. 프로그래밍 언어 활용: 리뉴얼 사이트 사용성 테스트 (NCS)</h4>
+    <p>디자인한 웹사이트를 인터랙티브하게 구현하는 과정을 기록했습니다.</p>
 </div>
 
 <br>
