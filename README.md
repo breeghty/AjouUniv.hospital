@@ -59,9 +59,9 @@ Slick.js와 Scrolla.js 라이브러리를 사용했습니다.
 <br>
 <div>
   <div style='display:flex'>
-    <a href="./renewal_process/ui구현.pdf"><img align='top' src="./img/process_1.png" width="270" height="auto" alt="리뉴얼 기획 및 디자인 단계"></a>
-    <a href="./renewal_process/ui테스트.pdf"><img align='top' src="./img/process_2.png" width="270" height="auto" alt="리뉴얼 사용성 테스트"></a>
-    <a href="./renewal_process/프로그래밍언어활용.pdf"><img align='top' src="./img/process_3.png" width="270" height="auto" alt="리뉴얼 인터랙티브 웹 구현"</a>
+    <a href="./renewal_process/ui구현.pdf"><img align='top' src="./img/process_1.png" width="230" height="auto" alt="리뉴얼 기획 및 디자인 단계"></a>
+    <a href="./renewal_process/ui테스트.pdf"><img align='top' src="./img/process_2.png" width="230" height="auto" alt="리뉴얼 사용성 테스트"></a>
+    <a href="./renewal_process/프로그래밍언어활용.pdf"><img align='top' src="./img/process_3.png" width="230" height="auto" alt="리뉴얼 인터랙티브 웹 구현"</a>
   </div>
 </div>
 <div align=center>
