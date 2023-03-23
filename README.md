@@ -93,7 +93,7 @@ Slick.js와 Scrolla.js 라이브러리를 사용했습니다.
 <br>
 
 <div align=center>
-<h2>✔ 프로토타입(Prototype) using <strong>Adobe XD</strong></h2>
+<h2>✔ 프로토타입(Prototype) using <strong>💜Adobe XD💜</strong></h2>
 </div>
 <br>
 <div>
