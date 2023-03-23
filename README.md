@@ -9,9 +9,9 @@
 <div align=center>
 <h2>Before & After</h2>
 </div>
-<div style="display:flex; justify-content:space-between;">
-<img src='./img/ajou_before.png' width='500' height='auto' alt='아주대병원 사이트 리뉴얼 이전'>
-<img src='./img/ajou_after.png' width='500' height='auto' alt='아주대병원 사이트 리뉴얼 이전'>
+<div>
+<img src='./img/ajou_before.png' width='400' height='auto' alt='아주대병원 사이트 리뉴얼 이전'>
+<img src='./img/ajou_after.png' width='400' height='auto' alt='아주대병원 사이트 리뉴얼 이전'>
 </div>
 
 
@@ -54,17 +54,18 @@ Slick.js와 Scrolla.js 라이브러리를 사용했습니다.
 <br>
 <div align=center>
 <h2>✔ 리뉴얼 과정 자세히 보기(Renewal Process)</h2>
+<h3>이미지를 클릭해보세요!(Click to view!)</h3>
 </div>
 <br>
 <div align=center>
   <div style='display:flex'>
-  <img align='top' src="./img/main_sketch.png" width="230" height="auto" alt="아주대병원 메인 스케치">
-  <img align='top' src="./img/parking_sketch.png" width="230" height="auto" alt="아주대병원 주차안내 스케치">
-  <img align='top' src="./img/gallery_sketch.png" width="230" height="auto" alt="아주대병원 갤러리 스케치">
+    <a 'href="./renewal_process/ui구현.pdf"><img align='top' src="./img/process_1.png" width="300" height="auto" alt="리뉴얼 기획 및 디자인 단계"></a>
+    <a href="./renewal_process/ui테스트.pdf"><img align='top' src="./img/process_2.png" width="300" height="auto" alt="리뉴얼 사용성 테스트"></a>
+    <a href="./renewal_process/프로그래밍언어활용.pdf"><img align='top' src="./img/process_3.png" width="300" height="auto" alt="리뉴얼 인터랙티브 웹 구현"</a>
   </div>
 </div>
 
-
+<br>
 
 
 <br>
@@ -72,8 +73,8 @@ Slick.js와 Scrolla.js 라이브러리를 사용했습니다.
 <h2>✔ 와이어프레임 스케치(Wire Frame Sketch)</h2>
 </div>
 <br>
-<div align=center>
-  <div style='display:flex'>
+<div>
+  <div>
   <img align='top' src="./img/main_sketch.png" width="230" height="auto" alt="아주대병원 메인 스케치">
   <img align='top' src="./img/parking_sketch.png" width="230" height="auto" alt="아주대병원 주차안내 스케치">
   <img align='top' src="./img/gallery_sketch.png" width="230" height="auto" alt="아주대병원 갤러리 스케치">
@@ -87,8 +88,8 @@ Slick.js와 Scrolla.js 라이브러리를 사용했습니다.
 <h2>✔ 프로토타입(Prototype) using <strong>Adobe XD</strong></h2>
 </div>
 <br>
-<div align=center>
-  <div style='display:flex'>
+<div>
+  <div>
   <img align='top' src="./img/mainprototype.png" width="230" height="auto" alt="아주대병원 메인 풀페이지">
   <img align='top' src="./img/parkingprototype.png" width="230" height="auto" alt="아주대병원 주차안내 풀페이지">
   <img align='top' src="./img/galleryprototype.png" width="230" height="auto" alt="아주대병원 갤러리 풀페이지">
