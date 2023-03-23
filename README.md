@@ -47,8 +47,38 @@ Slick.js와 Scrolla.js 라이브러리를 사용했습니다.
 <h2>✔ 키워드(Keyword)</h2>
 - 기획 100% + 디자인 100% + 코딩 100%<br>
 - 웹표준, 웹접근성<br>
-- HTML, CSS, Javascript, jQuery<br>
+- HTML, CSS, Javascript, jQuery, Adobe XD, Photoshop<br>
 - 사이트 리뉴얼 평가, 웹디자인, 퍼블리싱
+</div>
+
+<br>
+<div align=center>
+<h2>✔ 리뉴얼 과정 자세히 보기(Renewal Process)</h2>
+</div>
+<br>
+<div align=center>
+  <div style='display:flex'>
+  <img align='top' src="./img/main_sketch.png" width="230" height="auto" alt="아주대병원 메인 스케치">
+  <img align='top' src="./img/parking_sketch.png" width="230" height="auto" alt="아주대병원 주차안내 스케치">
+  <img align='top' src="./img/gallery_sketch.png" width="230" height="auto" alt="아주대병원 갤러리 스케치">
+  </div>
+</div>
+
+
+
+
+<br>
+<div align=center>
+<h2>✔ 와이어프레임 스케치(Wire Frame Sketch)</h2>
+</div>
+<br>
+<div align=center>
+  <div style='display:flex'>
+  <img align='top' src="./img/main_sketch.png" width="230" height="auto" alt="아주대병원 메인 스케치">
+  <img align='top' src="./img/parking_sketch.png" width="230" height="auto" alt="아주대병원 주차안내 스케치">
+  <img align='top' src="./img/gallery_sketch.png" width="230" height="auto" alt="아주대병원 갤러리 스케치">
+  <img align='top' src="./img/customer_sketch.png" width="230" height="auto" alt="아주대병원 고객의소리 스케치">
+  </div>
 </div>
 
 <br>
@@ -56,10 +86,13 @@ Slick.js와 Scrolla.js 라이브러리를 사용했습니다.
 <div align=center>
 <h2>✔ 프로토타입(Prototype) using <strong>Adobe XD</strong></h2>
 </div>
-<div style='display:flex'>
-<img src="./img/mainprototype.png" width="250" height="auto" alt="아주대병원 메인 풀페이지">
-<img src="./img/parkingprototype.png" width="250" height="auto" alt="아주대병원 메인 풀페이지">
-<img src="./img/mainprototype.png" width="250" height="auto" alt="아주대병원 메인 풀페이지">
-<img src="./img/customerprototype.png" width="250" height="auto" alt="아주대병원 메인 풀페이지">
+<br>
+<div align=center>
+  <div style='display:flex'>
+  <img align='top' src="./img/mainprototype.png" width="230" height="auto" alt="아주대병원 메인 풀페이지">
+  <img align='top' src="./img/parkingprototype.png" width="230" height="auto" alt="아주대병원 주차안내 풀페이지">
+  <img align='top' src="./img/galleryprototype.png" width="230" height="auto" alt="아주대병원 갤러리 풀페이지">
+  <img align='top' src="./img/customerprototype.png" width="230" height="auto" alt="아주대병원 고객의소리 풀페이지">
+  </div>
 </div>
 
